@@ -1,5 +1,7 @@
 # How to Re-run this React app
 
+## Dependencies
+
 ## Start-up Django
 1. Open new terminal window and navigate to the backend in this repo directory
 2. Activate virtual environment
